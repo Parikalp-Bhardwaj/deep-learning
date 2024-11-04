@@ -11,7 +11,7 @@ Description: Introduces the basics of sentiment analysis using a simple RNN mode
 ### Key Features:
 - Data loading and text preprocessing
 - Tokenization and sequence padding
-- Building a simple RNN using Keras
+- Building a simple RNN using Pytorch
 - Model training and accuracy evaluation
 
 
